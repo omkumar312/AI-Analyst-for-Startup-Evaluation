@@ -1,6 +1,4 @@
-<img width="1887" height="1177" alt="Screenshot 2025-09-21 232758" src="https://github.com/user-attachments/assets/9631e44c-8dfd-4e86-b19e-9b64afc04cfa" />AI Analyst for Startup Evaluation
-
-Tagline: “From Deck to Decision in Minutes”
+AI Analyst for Startup Evaluation
 
 - Overview
 
@@ -41,7 +39,7 @@ Data: Firestore, BigQuery, Cloud Storage
 Reporting: PDF reports with charts and heatmaps
 
 - Preview Images
-<img width="1887" height="1177" alt="Screenshot 2025-09-21 232758" src="https://github.com/user-attachments/assets/3bb5d1a1-9af7-4676-a69b-908833f30fcf" />
+<img width="1890" height="1199" alt="Screenshot 2025-09-21 232733" src="https://github.com/user-attachments/assets/134f0dda-f500-4701-a1f5-ab439044b0e6" />
 <img width="1898" height="1199" alt="Screenshot 2025-09-21 232742" src="https://github.com/user-attachments/assets/1d3a2baf-0838-43ca-8080-6c95181f667d" />
 <img width="1893" height="1197" alt="Screenshot 2025-09-21 232750" src="https://github.com/user-attachments/assets/5e946981-f17a-458b-8200-c88e205058c6" />
 <img width="1887" height="1177" alt="Screenshot 2025-09-21 232758" src="https://github.com/user-attachments/assets/8f1e7fb8-21d0-4793-a90b-daaa8517f4a4" />
